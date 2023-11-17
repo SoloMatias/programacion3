@@ -1,0 +1,218 @@
+[    
+  {
+    "id": "1",
+    "nombre": "Buenos Aires",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Almirante Brown"
+      },
+      {
+        "id": "2",
+        "nombre": "Avellaneda"
+      },
+      {
+        "id": "3",
+        "nombre": "Banfield"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "nombre": "Córdoba",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Capital"
+      },
+      {
+        "id": "2",
+        "nombre": "Río Primero"
+      },
+      {
+        "id": "3",
+        "nombre": "Río Segundo"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "nombre": "Santa Fe",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Capital"
+      },
+      {
+        "id": "2",
+        "nombre": "La Capital"
+      },
+      {
+        "id": "3",
+        "nombre": "San Jerónimo"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "nombre": "Mendoza",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Capital"
+      },
+      {
+        "id": "2",
+        "nombre": "Godoy Cruz"
+      },
+      {
+        "id": "3",
+        "nombre": "Guaymallén"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "nombre": "Tucumán",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Capital"
+      },
+      {
+        "id": "2",
+        "nombre": "Tafí Viejo"
+      },
+      {
+        "id": "3",
+        "nombre": "Cruz Alta"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "nombre": "San Luis",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Capital"
+      },
+      {
+        "id": "2",
+        "nombre": "San Martín"
+      },
+      {
+        "id": "3",
+        "nombre": "Pueyrredón"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "nombre": "Tierra del Fuego",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Antártida Argentina"
+      },
+      {
+        "id": "2",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      },
+      {
+        "id": "3",
+        "nombre": "Ushuaia"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "nombre": "Neuquén",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Capital"
+      },
+      {
+        "id": "2",
+        "nombre": "Confluencia"
+      },
+      {
+        "id": "3",
+        "nombre": "Plottier"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "nombre": "Río Negro",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "General Roca"
+      },
+      {
+        "id": "2",
+        "nombre": "Lamarque"
+      },
+      {
+        "id": "3",
+        "nombre": "Valcheta"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "nombre": "Chubut",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Comodoro Rivadavia"
+      },
+      {
+        "id": "2",
+        "nombre": "Rawson"
+      },
+      {
+        "id": "3",
+        "nombre": "Trelew"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "nombre": "Santa Cruz",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Río Gallegos"
+      },
+      {
+        "id": "2",
+        "nombre": "Caleta Olivia"
+      },
+      {
+        "id": "3",
+        "nombre": "Puerto Deseado"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "nombre": "La Pampa",
+    "departamentos": [
+      {
+        "id": "1",
+        "nombre": "Capital"
+      },
+      {
+        "id": "2",
+        "nombre": "General Acha"
+      },
+      {
+        "id": "3",
+        "nombre": "Guatraché"
+      }
+    ]
+  }
+]
