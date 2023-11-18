@@ -1,0 +1,36 @@
+name: PHP CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '7.4'
+
+    - name: Install dependencies
+      run: |
+        composer install
+        sudo apt-get install -y libxml2-utils
+        cp .env.example .env
+        php artisan key:generate
+
+    - name: Start XAMPP services
+      run: sudo service apache2 start && sudo service mysql start
+
+    - name: Run PHPUnit tests
+      run: vendor/bin/phpunit
+
+    - name: Stop XAMPP services
+      run: sudo service apache2 stop && sudo service mysql stop
