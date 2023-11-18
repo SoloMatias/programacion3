@@ -1,13 +1,13 @@
 # programacion3
 # Proyecto de Alquileres RapiBnB
 
-#Descripción
+## Descripción
 Este proyecto de máquina de programacion 3 tiene como objetivo desarrollar un sitio web de alquileres, cumpliendo con los requisitos establecidos y siguiendo una narrativa específica.
 
-#Herramientas y tecnologías
+## Herramientas y tecnologías
 HTML, CSS, JavaScript, PHP, Jquerry
 
-#Cuentas para probar el sitio web
+## Cuentas para probar el sitio web
 
 admin:
 email:BetoMendoza@gmail.com
